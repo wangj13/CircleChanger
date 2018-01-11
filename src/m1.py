@@ -91,6 +91,7 @@ class CircleChanger(object):
         self.colors = colors
         self.initial = fill_color
         self.index = 0
+        
         # --------------------------------------------------------------
         # Change the above "animation_factor" if the animations
         # go too fast or too slow for your tastes.  Setting it to N
